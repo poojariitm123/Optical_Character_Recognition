@@ -1,1 +1,1 @@
-# Digit-Recognizer
+#Optical Character Recognini
